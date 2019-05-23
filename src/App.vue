@@ -11,6 +11,7 @@
 
 <script>
 import Skills from './components/Skills.vue'
+import About from '/.components/About.vue'
 
 export default {
   name: 'app',
